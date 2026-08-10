@@ -38,7 +38,7 @@ test:
   commands:
     - pip check
   requires:
-    - python {{ python_min }}
+    - python >=3.11,<3.15
     - pip
 
 about:
