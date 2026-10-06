@@ -3,7 +3,6 @@ schema_version: 1
 context:
   name: colour-science
   version: "0.4.7"
-  python_min: "3.11"
 
 package:
   name: ${{ name|lower }}
