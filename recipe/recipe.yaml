@@ -27,11 +27,11 @@ requirements:
     - hatchling
   run:
     - python >=${{ python_min }}
+    - numpy >=2.0.0,<3
+    # optional upstream, but kept as hard deps for a complete install
     - imageio >=2,<3
-    - matplotlib-base >=3.7
-    - numpy >=1.24,<3
-    - scipy >=1.10,<2
-    - typing_extensions >=4,<5
+    - matplotlib-base >=3.9
+    - scipy >=1.13.0,<2
 
 tests:
   - python:
