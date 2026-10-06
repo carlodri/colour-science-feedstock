@@ -193,5 +193,6 @@ Feedstock Maintainers
 =====================
 
 * [@MichaelMauderer](https://github.com/MichaelMauderer/)
+* [@carlodri](https://github.com/carlodri/)
 * [@thomasmansencal](https://github.com/thomasmansencal/)
 
